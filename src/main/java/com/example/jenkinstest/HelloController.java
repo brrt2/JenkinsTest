@@ -8,7 +8,7 @@ public class HelloController {
 
   @RequestMapping("/")
   public String index() {
-    return "Login test successful";
+    return "Login test successful after minor alterations";
   }
 
 }
